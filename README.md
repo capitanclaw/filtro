@@ -1,6 +1,7 @@
 # Rock and roll sounds filters for NeverSink
 
 **This filters works with NeverSink version 6.3 or later.**
+*Based in Purple filter.*
 
 Download NeverSink from https://github.com/NeverSinkDev/NeverSink-Filter/releases. 
 
